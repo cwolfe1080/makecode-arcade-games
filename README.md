@@ -4,4 +4,5 @@ I think all of these will work on any MakeCode Arcade device but I know for cert
   
 Games:  
 [Fortnite](/arcade-Fortnite.uf2)  
+[Passward Evo](/arcade-Passward-Evo.uf2)  
 Civilization (in development)  

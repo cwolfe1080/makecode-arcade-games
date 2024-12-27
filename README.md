@@ -4,7 +4,6 @@ I think all of these will work on any MakeCode Arcade device but I know for cert
   
 ## Games:  
 [Fortnite](/arcade-Fortnite.uf2)  
-Civilization (in development)  
 
 ## Apps and software:
 [Passward Evo (FTU code is 87?Kevlar?87)](/arcade-Passward-Evo.uf2)  
